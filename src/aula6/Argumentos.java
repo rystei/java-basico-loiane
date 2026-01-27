@@ -1,4 +1,6 @@
-public class Argumentos2 {
+package aula6;
+
+public class Argumentos {
 
     public static void main(String[] args){
 
